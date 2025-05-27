@@ -1,0 +1,4 @@
+1. product backlog -> contains all the potential features and improvements for a product.
+
+2. Sprint Backlog ->  a list of tasks, features, and work items that a development team 
+                      commits to completing during a single sprint in Agile methodology.
