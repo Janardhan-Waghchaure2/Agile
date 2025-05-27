@@ -12,4 +12,5 @@
 3. sprint review 
       1. at end of each sprint
       2. demonstration of work by each team member
-      3. feedback is gathered from client
+      3. feedback is gathered from client and any improovement they
+         want in upcoming sprint.
