@@ -14,3 +14,7 @@
       2. demonstration of work by each team member
       3. feedback is gathered from client and any improovement they
          want in upcoming sprint.
+
+4. sprint retrospective
+      1. team reviews what went well , what didn't 
+      2. plans for improovement in next sprint.
