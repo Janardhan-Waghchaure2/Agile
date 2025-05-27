@@ -1,3 +1,14 @@
 1. sprint planning -> 
       1. first agile ceremony(at starting of sprint)
       2. here team plans the work they will complete in upcoming sprint.
+
+2. daily standup / daily meet ->
+      1. everyday ~15 min.
+      2. disscussion around -> 
+                  what team did yesterday?
+                  what they will be donig today?
+                  is there any challenges? if yes then discussing solutions.
+
+3. sprint review 
+      1. at end of each sprint
+      2. demonstration of work by each team member
