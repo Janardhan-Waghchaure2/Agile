@@ -2,3 +2,17 @@
 
 2. Sprint Backlog ->  a list of tasks, features, and work items that a development team 
                       commits to completing during a single sprint in Agile methodology.
+
+3. sprint -> A Sprint is a short, time-boxed period (usually 1-4 weeks) in Agile development 
+             where a team works on completing a specific set of tasks or features.
+
+4. User Stories -> Describes a feature or requirement from the user's perspective.
+                  template:As a [user type], I want [action] so that [benefit]
+                  example: As a customer, I want to receive order confirmation emails so that I know my order was placed successfully
+
+5. Tasks -> Breaks down a User Story into smaller, actionable steps.More technical and focused on implementation.
+            Example (for the above user story):
+                Create an email template for order confirmation.
+                Implement backend logic for sending emails.
+                Test email functionality before deployment.
+            * Think of a User Story as the goal, while Tasks are the steps needed to achieve that goal
